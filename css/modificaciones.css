@@ -1,0 +1,14 @@
+.thumb {
+	width: 200px;
+	transition: 300ms all ease;
+}
+
+.grande {
+	width: 400px;
+}
+.probando1{
+	color: #14ab12;
+}
+.probando2{
+	border-radius: 20px;
+}
